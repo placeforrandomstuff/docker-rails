@@ -1,4 +1,4 @@
-FROM everwise/rails4.2.5
+FROM everwise/rails
 
 WORKDIR /tmp
 ADD Gemfile Gemfile
